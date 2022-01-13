@@ -5,3 +5,5 @@
 
 ![image](https://user-images.githubusercontent.com/70555095/149343092-c021d83b-e1f5-4e43-8602-7f50c3475c91.png)
 ## Web Developer Kanai :)
+visit : https://devsecit.com/ 
+        https://ksconsultant.online/
